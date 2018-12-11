@@ -418,4 +418,3 @@ subroutine read_integer_scalar(ncid, varName, vardata)
   !--------------------------------------------------------------------------------------------------------------------
 
 end module
-end module
